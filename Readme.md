@@ -1,3 +1,6 @@
+![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 # Python With OpenAI Whisper Implementation
 
 ## Overview
@@ -19,12 +22,20 @@ Official repository: [https://github.com/openai/whisper](https://github.com/open
 
 ## Installation
 
-### 1. Create a Python Virtual Environment
-
+### 1. Environment Preparation
+Create and activate a Python virtual environment:
 ```bash
 # Windows
 python -m venv venv
 .\venv\Scripts\activate
+
+# macOS/Linux
+python -m venv venv
+source venv/bin/activate
+
+# Ubuntu
+python3 -m venv venv
+source venv/bin/activate
 ```
 
 ### 2. Install Required Dependencies
