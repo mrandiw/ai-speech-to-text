@@ -59,5 +59,5 @@ This will start the Gradio interface for audio transcription using the Whisper m
 
 ## Downloaded Model Located in 
 ```bash
-C:\Users\User\.cache\huggingface
+C:\Users\User\.cache\whisper
 ```
