@@ -56,3 +56,8 @@ python main.py
 ```
 
 This will start the Gradio interface for audio transcription using the Whisper model.
+
+## Downloaded Model Located in 
+```bash
+C:\Users\User\.cache\huggingface
+```
